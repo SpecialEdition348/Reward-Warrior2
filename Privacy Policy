@@ -1,0 +1,160 @@
+Privacy Policy
+Last updated: February 2026
+
+The Reward Warrior ("we", "our", or "the App") is a family task management application designed to help parents and children manage tasks and rewards together. This privacy policy explains how we collect, use, store, and protect your personal information and the personal information of children who use the App.
+
+Children's Privacy: We take the privacy of children very seriously. This App is designed to be used by families, including children under the age of 13. We comply with the Children's Online Privacy Protection Act (COPPA) and the UK Age Appropriate Design Code. Please read the Children's Privacy section carefully.
+1. Information We Collect
+1.1 Account Information (Parent Accounts)
+When a parent creates an account, we collect:
+
+Email address
+Username
+Display name
+Password (encrypted and stored securely — we never have access to your plain text password)
+1.2 Child Account Information
+Child accounts are created and managed by a parent. We collect:
+
+Username (chosen by the parent)
+Display name
+A unique linking code (used to connect child accounts to parent accounts)
+Child accounts do not require an email address. A system-generated placeholder is used internally for authentication purposes only and is not a real email address.
+
+1.3 App Usage Data
+As families use the App, we store:
+
+Tasks created, completed, and approved
+Points earned and spent
+Rewards created and redeemed
+Avatar selections and unlocked achievements
+Parent-child account relationships
+1.4 Feedback and Support
+If you use the in-app feedback or help feature, we collect the content of your message and the email address associated with your account (or your parent's email address if you are using a child account) so that we can respond to your enquiry.
+
+1.5 Advertising Data
+For users of the free version of the App, we display advertisements through Google AdMob. AdMob may collect:
+
+Device advertising identifier
+General device information (device type, operating system version)
+General location data (country/region level, not precise location)
+We do not serve personalised advertisements to child users. All advertising shown to child accounts uses child-directed ad settings in compliance with COPPA and Google's Families Policy. See Section 6 for more details.
+
+2. How We Use Your Information
+We use the information we collect to:
+
+Provide and operate the App's core functionality (task management, rewards, and family linking)
+Authenticate users and maintain account security
+Enable parent-child account relationships
+Track task completion, points, and reward progress
+Respond to feedback and support requests
+Display advertisements to free-tier users
+Improve the App's features and user experience
+We do not sell your personal information to third parties. We do not use children's data for marketing purposes.
+
+3. How We Store and Protect Your Information
+3.1 Data Storage
+Your data is stored using Supabase, a secure cloud database platform. Supabase provides:
+
+Encryption of data at rest and in transit
+Row Level Security (RLS) policies that ensure users can only access data within their own family unit
+Secure authentication with encrypted password storage
+3.2 Data Security
+We implement appropriate technical and organisational measures to protect your personal data, including:
+
+Encrypted password storage (passwords are never stored in plain text)
+Database-level access controls restricting data visibility to family members only
+Secure HTTPS connections for all data transmission
+Authentication tokens with appropriate expiry periods
+3.3 Data Retention
+We retain your data for as long as your account is active. If you delete your account, your personal data will be removed from our systems within 30 days. Anonymised, aggregated data may be retained for analytical purposes.
+
+4. Third-Party Services
+We use the following third-party services:
+
+4.1 Supabase
+Purpose: User authentication, database storage, and backend services. Supabase processes data in accordance with their privacy policy, available at supabase.com/privacy.
+
+4.2 Google AdMob
+Purpose: Displaying advertisements to free-tier users. AdMob's data practices are governed by Google's privacy policy, available at policies.google.com/privacy. For child accounts, we use child-directed ad settings which disable personalised advertising and remarketing.
+
+4.3 Mailjet
+Purpose: Sending transactional emails for feedback and support requests. Mailjet processes data in accordance with their privacy policy, available at mailjet.com/privacy-policy.
+
+4.4 Google Play Services
+Purpose: App distribution and, if applicable, in-app purchases. Google Play's data practices are governed by Google's privacy policy.
+
+5. Data Sharing
+We do not sell, trade, or rent your personal information. We share data only in the following circumstances:
+
+Within your family unit: Parents can see their linked children's usernames, display names, task progress, points, and avatar selections. Children can see their parent's display name.
+Third-party service providers: As described in Section 4, limited data is shared with our service providers solely for the purposes of operating the App.
+Legal requirements: We may disclose information if required to do so by law or in response to valid requests by public authorities.
+6. Children's Privacy
+We are committed to protecting the privacy of children. This section outlines our specific practices for children's data.
+6.1 Parental Consent
+Child accounts can only be created by a parent or guardian who already holds an account with the App. By creating a child account and linking it to their own account, the parent provides verifiable consent for the collection and use of their child's information as described in this policy.
+
+6.2 Data We Collect from Children
+We collect the minimum amount of data necessary for the App to function. For child accounts, this is limited to:
+
+A username and display name (set by the parent)
+Task and reward activity within the App
+Avatar selections
+We do not collect email addresses, precise location data, photos, or any other personal information directly from children.
+
+6.3 Advertising to Children
+When advertisements are displayed to child accounts, we use Google AdMob's child-directed settings. This means:
+
+No personalised or behavioural advertising
+No remarketing or interest-based advertising
+Only contextual, age-appropriate advertisements are shown
+Advertising identifiers are not used to build user profiles for children
+6.4 Parental Rights
+Parents have the right to:
+
+Review the personal information we have collected about their child
+Request deletion of their child's personal information
+Refuse further collection or use of their child's information
+Manage and modify their child's account settings
+To exercise any of these rights, please contact us using the details in Section 10.
+
+7. Your Rights (GDPR and UK Data Protection)
+If you are located in the United Kingdom or European Economic Area, you have the following rights under the UK GDPR and EU GDPR:
+
+Right of access: You may request a copy of the personal data we hold about you.
+Right to rectification: You may request that we correct inaccurate personal data.
+Right to erasure: You may request that we delete your personal data.
+Right to restrict processing: You may request that we limit how we use your data.
+Right to data portability: You may request a copy of your data in a structured, machine-readable format.
+Right to object: You may object to our processing of your personal data.
+Right to withdraw consent: Where processing is based on consent, you may withdraw it at any time.
+To exercise any of these rights, please contact us using the details in Section 10. We will respond to your request within 30 days.
+
+7.1 Legal Basis for Processing
+We process personal data on the following legal bases:
+
+Contract: Processing necessary to provide the App's services to you.
+Consent: Where you have given consent, such as for receiving feedback responses via email. For children's data, parental consent serves as the legal basis.
+Legitimate interest: For improving the App and ensuring its security, where such interests are not overridden by your rights.
+8. Advertising and Premium Users
+The App offers both a free tier (with advertisements) and a premium tier (without advertisements).
+
+Free users: Advertisements are displayed via Google AdMob. AdMob may use device identifiers and general device information to serve ads. For child accounts, only non-personalised, child-directed ads are shown.
+Premium users: No advertisements are displayed. No advertising-related data is collected or shared with advertising partners.
+You can upgrade to premium at any time through the App to remove all advertisements.
+
+9. Changes to This Privacy Policy
+We may update this privacy policy from time to time. We will notify you of any material changes by posting the new privacy policy within the App and updating the "Last updated" date at the top of this page. For changes that affect how we handle children's data, we will seek renewed parental consent where required.
+
+10. Contact Us
+If you have any questions about this privacy policy, wish to exercise your rights, or have concerns about how we handle personal data, please contact us:
+
+The Reward Warrior
+
+Email: privacy@rewardwarrior.com
+
+Website: rewardwarrior.com
+
+If you are not satisfied with our response, you have the right to lodge a complaint with the Information Commissioner's Office (ICO) at ico.org.uk.
+
+© 2026 The Reward Warrior. All rights reserved.
